@@ -1,6 +1,6 @@
 # terraform-vultr-docker
 
-you can run the vultr-provider from this dockerfile, awesome to use with CI :)
+you can run the  **[terraform-provider-vultr](https://github.com/squat/terraform-provider-vultr)**  from this dockerfile, awesome to use with CI :)
 
 ## image
 From docker Hub:
